@@ -1,0 +1,37 @@
+body, html{
+    font-family: 'Arimo', sans-serif;
+    margin:0;
+    padding:0;
+    background-color:#EEEEEE;
+}
+
+.header{
+    background-color: #1D628B;
+    font-size: 1.5em;
+    padding: 1em;
+    color: #EEEEEE;
+}
+
+.tagline{
+    background-color: #73B1D6;
+    font-size: 1.2em;
+    padding: 1.43em;
+    color: #112233;
+}
+
+.form-group-custom{
+    margin:0 10px;
+}
+
+.alt-row{
+    background-color:#FFFFFF;
+}
+
+.verticle-margin{
+    margin:10px 0;
+}
+
+#outputresults{
+    min-height:200px;
+}
+
